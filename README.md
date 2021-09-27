@@ -2,7 +2,7 @@
 
 ## Features
 
-Easily insert Go fmt.Println statements.
+Easily insert Go `fmt.Println` statements.
 
 For example:
 `fmt.Println("example: ", example)`
@@ -12,7 +12,7 @@ For example:
 
 ## Installing
 
-This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=)
+This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=goprint)
 
 ## Usage
 

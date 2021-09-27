@@ -1,7 +1,7 @@
 {
 	"name": "goprint",
 	"displayName": "goprint",
-	"description": "Go Print, console logs simplified",
+	"description": "Go Print, insert print logs - simplified",
 	"repository": "https://github.com/kflan-io/goprint",
 	"version": "0.0.1",
 	"publisher": "kflan-io",
