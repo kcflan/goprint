@@ -37,14 +37,15 @@ This extension is available for free in the [Visual Studio Code Marketplace](htt
 
 With selection:
 
-* Highlight a variable (or really any text)
-* Press `Cmd+Shift+I`
-* The output (on a new line) will be: `fmt.Println('variable: ', variable)`
+- Highlight a variable (or any text really)
+<!-- markdownlint-disable MD033 -->
+- Press `Cmd+Shift+I` <kbd>⌘⇧I</kbd> (`Ctrl+Shift+I` on Windows)
+- The output (on a new line) will be: `fmt.Println('variable: ', variable)`
 
 Without selection:
 
-* Press `Cmd+Shift+I`
-* The output (on the same line) will be: `fmt.Println()`
+- Press `Cmd+Shift+I`
+- The output (on the same line) will be: `fmt.Println()`
 
 ## License
 
