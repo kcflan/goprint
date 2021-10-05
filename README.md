@@ -12,6 +12,25 @@ For example:
 
 ## Installing
 
+### Build and install locally
+
+- #### Install The Visual Studio Code Extension Manager
+
+  - `npm install -g vsce`
+
+- #### Build using Extension Manager
+
+  - `vsce package`
+
+- #### Install .VSIX Extension File `goprint-0.0.1.vsix`
+
+  - right-click `goprint-0.0.1.vsix` from inside VS Code to install
+  - ![install](images/install.png)
+- OR
+  - move `goprint-0.0.1.vsix` into your vscode extensions folder
+
+### Download from Visual Studio Code Marketplace
+
 This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=kflan-io.goprint)
 
 ## Usage
