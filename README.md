@@ -14,7 +14,9 @@ For example:
 
 ### Build and install locally
 
-- `npm install`
+- #### Install dependencies
+
+  - `npm install`
 
 - #### Install The Visual Studio Code Extension Manager
 
