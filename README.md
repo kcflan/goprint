@@ -2,7 +2,7 @@
 
 ## Features
 
-Easily insert Go `fmt.Println` statements.
+Quickly and easily insert Go `fmt.Println` statements.
 
 For example:
 `fmt.Println("example: ", example)`
@@ -35,7 +35,7 @@ For example:
 
 ### Download from Visual Studio Code Marketplace
 
-This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=kflan-io.goprint)
+This extension ~~is~~ will be available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=kflan-io.goprint)
 
 ## Usage
 
