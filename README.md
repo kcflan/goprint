@@ -35,7 +35,7 @@ For example:
 
 ### Download from Visual Studio Code Marketplace
 
-This extension ~~is~~ will be available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=kflan-io.goprint)
+This extension ~~is~~ will be available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=kcflan.goprint)
 
 ## Usage
 
